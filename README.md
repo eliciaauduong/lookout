@@ -1,3 +1,6 @@
+# lookout
+a web app to help you share lists that you want to keep a lookout for
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
